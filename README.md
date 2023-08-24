@@ -5,4 +5,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegeler&hide=css,html&layout=compact" style="margin:0.5em;" alt="top languages" />
 </a>
+<h2>Disclaimer</h2>
+Comments and posts on this site are my own and do not necessarily reflect the views of my employer or any organization of which I am a member.
 </div>
